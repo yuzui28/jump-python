@@ -1,0 +1,32 @@
+{
+  "area_left": 80,
+  "area_top": 800,
+  "area_right": 1360,
+  "area_bottom": 2200,
+
+  "offset_x": 0,
+  "offset_y": 90,
+
+  "advanced_target_mode": true,
+  "advanced_square_ratio": 0.48,
+  "advanced_round_ratio": 0.60,
+  "round_width_threshold": 160,
+  "advanced_offset_y": 110,
+
+  "press_x": 540,
+  "press_y": 1600,
+
+  "min_press": 200,
+  "max_press": 2200,
+
+  "scan_step": 3,
+
+  "piece_min_pixels": 80,
+
+  "target_min_count": 5,
+  "target_min_width": 30,
+  "target_max_width": 560,
+
+  "draw_debug": true,
+  "wait_after_jump": 1200
+}
